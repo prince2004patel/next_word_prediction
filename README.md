@@ -3,6 +3,10 @@
 ## Overview
 This project implements a **Next Word Prediction** model using **LSTM (Long Short-Term Memory) with an Attention mechanism**. The model is trained on **Shakespeare's Hamlet dataset** and achieves **70% accuracy** in predicting the next word in a sequence.
 
+## Live Demo :-
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-blue)](https://next-word-prediction-by-prince.streamlit.app/)
+
 ## Project Workflow
 
 ### 1. Data Collection
